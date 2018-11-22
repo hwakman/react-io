@@ -4,9 +4,11 @@
   "private": true,
   "homepage": "https://hwakman.github.io/react-io/",
   "dependencies": {
+    "@material-ui/core": "^3.5.1",
     "gh-pages": "^2.0.1",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
+    "react-router-dom": "^4.3.1",
     "react-scripts": "2.1.1"
   },
   "scripts": {
